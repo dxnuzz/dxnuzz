@@ -1,4 +1,5 @@
-# Welcome to my GitHub profile ! 
+# Hi I'm Dhanushka
+## Welcome to my GitHub profile ! 
 
 ### 👩🏻‍💻 About Me
 
@@ -23,8 +24,8 @@
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsjayasinghe22@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushka-jayasinghe-34b103359)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsjayasinghe22@gmail.com)
 
 </div>
 
