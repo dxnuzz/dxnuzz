@@ -1,10 +1,10 @@
-# Welcome to my GitHub profile ! 
+## Hi there, I'm Dhanushka Jayasinghe 👋
 
 ### 👩🏻‍💻 About Me
 
-- 🎓 **Education:** Computer Science undergraduate at Uva Wellassa University, Sri Lanka
-- 🚀 **Aspiration:** AI Engineer
-- 💻 **Focus:** Artificial Intelligence, Web and Mobile Application Development
+- 🎓 **Current Undergraduate:** B.Sc.(Hons) in Computer Science, Uva Wellassa University Sri Lanka
+- 🚀 **Aspiring AI Engineer**
+- 💻 **Interests:** Artificial Intelligence, Machine Learning, Web and Mobile Application Development
 - ⚡ **What drives me:** Turning complex problems into functional code, intuitive designs and smart applications
 
 ---
