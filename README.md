@@ -2,10 +2,10 @@
 
 ### 👩🏻‍💻 About Me
 
-🎓 **Education:** Computer Science undergraduate at Uva Wellassa University, Sri Lanka
-🚀 **Aspiration:** AI Engineer
-💻 **Focus:** Artificial Intelligence, Web and Mobile Application Development
-⚡ **What drives me:** Turning complex problems into functional code, intuitive designs and smart applications
+- 🎓 **Education:** Computer Science undergraduate at Uva Wellassa University, Sri Lanka
+- 🚀 **Aspiration:** AI Engineer
+- 💻 **Focus:** Artificial Intelligence, Web and Mobile Application Development
+-⚡ **What drives me:** Turning complex problems into functional code, intuitive designs and smart applications
 
 ---
 
@@ -31,6 +31,8 @@
 </div>
 
 <br>
+
+---
 
 <div align="center">
   <a href="https://github.com/dxnuzz">
