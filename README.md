@@ -5,7 +5,7 @@
 - 🎓 **Education:** Computer Science undergraduate at Uva Wellassa University, Sri Lanka
 - 🚀 **Aspiration:** AI Engineer
 - 💻 **Focus:** Artificial Intelligence, Web and Mobile Application Development
--⚡ **What drives me:** Turning complex problems into functional code, intuitive designs and smart applications
+- ⚡ **What drives me:** Turning complex problems into functional code, intuitive designs and smart applications
 
 ---
 
@@ -25,6 +25,9 @@
   <a href="mailto:dsjayasinghe22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
+  <br>
+  
   <a href="https://linkedin.com/in/dhanushka-jayasinghe-34b103359">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
