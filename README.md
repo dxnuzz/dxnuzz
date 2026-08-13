@@ -32,9 +32,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/dxnuzz">
-    <img src="https://komarev.com/ghpvc/?username=dxnuzz&color=blue&style=flat-square" alt="Profile Views" />
-  </a>
-</div>
