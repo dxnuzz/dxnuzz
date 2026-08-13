@@ -1,4 +1,4 @@
-## Hi there, I'm Dhanushka Jayasinghe 👋
+# Hi there, I'm Dhanushka Jayasinghe 👋
 
 ### 👩🏻‍💻 About Me
 
