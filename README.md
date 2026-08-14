@@ -1,6 +1,6 @@
 # Hi there, I'm Dhanushka Jayasinghe 👋
 
-### 👩🏻‍💻 About Me
+### About Me 👩🏻‍💻
 
 - 🎓 **Current Undergraduate:** B.Sc. (Hons) in Computer Science, Uva Wellassa University of Sri Lanka
 - 🚀 **Aspiring AI Engineer**
@@ -9,17 +9,25 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools 💻
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,python,php,mysql,react,js,html,css,git,github,figma,ps,ai,pr&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,python,php,mysql,react,js,html,css,git,github,vscode,postman,figma,ps,ai,pr&perline=6" alt="My Skills" />
   </a>
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect 🤝
+
+<div align="center">
+
+<a href="https://linkedin.com/in/dhanushka-jayasinghe-34b103359"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+
+<a href="mailto:dsjayasinghe22@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/dhanushka-jayasinghe-34b103359" target="_blank">
@@ -30,3 +38,8 @@
   </a>
 </p>
 
+<div align="center">
+
+⭐ Feel free to explore my repositories and follow my journey in Computer Science!
+
+</div>
