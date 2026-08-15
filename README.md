@@ -17,7 +17,7 @@
 <td width="45%" align="center">
   
 <br>
-<img src="assets/my_space.jpeg" width="300" height="200" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(59, 130, 246, 0.5);" alt="Tech Aesthetic"/>
+<img src="assets/my_desk.jpeg" width="300" height="200" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(59, 130, 246, 0.5);" alt="Tech Aesthetic"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=550&lines=Turning+complex+problems+into+functional+code+%E2%9A%A1;Fascinated+by+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+intuitive+designs+%26+smart+apps+%F0%9F%92%BB"/>
