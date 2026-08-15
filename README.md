@@ -6,11 +6,11 @@
 <tr>
   
 <td width="55%" valign="center">
-
-- 🎓 **Current Undergraduate:** B.Sc. (Hons) in Computer Science, Uva Wellassa University of Sri Lanka
-- 🚀 **Aspiring AI Engineer**
-- 💻 **Interests:** Artificial Intelligence, Machine Learning, Web and Mobile Application Development
-- ⚡ **What drives me:** Turning complex problems into functional code, intuitive designs and smart applications
+ 
+🎓 **Current Undergraduate:** B.Sc. (Hons) in Computer Science, Uva Wellassa University of Sri Lanka <br><br>
+🚀 **Aspiring AI Engineer**  <br><br>
+💻 **Interests:** Artificial Intelligence, Machine Learning, Web and Mobile Application Development  <br><br>
+⚡ **What drives me:** Turning complex problems into functional code, intuitive designs and smart applications 
 
 </td>
 
