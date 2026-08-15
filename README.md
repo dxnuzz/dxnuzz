@@ -55,6 +55,6 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerd+Fonts%3A&weight=100&size=14&duration=3000&pause=1500&color=CDD0D4&background=FF3C9E00&width=650&lines=%F0%9F%94%97+Feel+free+to+explore+my+repositories+and+follow+my+journey+in+Computer+Science!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Nerd+Fonts%3A&weight=100&size=14&duration=3000&pause=1500&color=CDD0D4&background=FF3C9E00&width=650&lines=%F0%9F%94%97+Feel+free+to+explore+my+repositories+and+follow+my+journey+in+Computer+Science!" alt="Typing SVG" />
 
 </div>
