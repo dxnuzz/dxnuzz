@@ -34,8 +34,12 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,python,php,mysql,react,js,html,css,git,github,vscode,postman,figma,ps,ai,pr&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,c,cs,mysql,react,js,html,css,git,github,vscode,postman,docker,anaconda,figma,ps,ai,pr&perline=5" alt="My Skills" />
   </a>
+
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="40" alt="Google Colab" />
 </div>
 
 ---
